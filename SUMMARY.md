@@ -6,6 +6,8 @@
 
 * [求職行動](tacitcs/qiu-zhi-xing-dong.md)
 * [每月看一本書](tacitcs/mei-yue-kan-yi-ben-shu.md)
+* [每週重訓一次](tacitcs/mei-zhou-zhong-xun-yi-ci.md)
+* [新鮮人職場生存計畫](tacitcs/xin-xian-ren-zhi-chang-sheng-cun-ji-hua.md)
 
 ***
 

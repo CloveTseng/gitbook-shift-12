@@ -30,8 +30,8 @@ icon: eyes
 | 關鍵行動 / 策略 | 預計完成週數 | 指標                                                                    |
 | --------- | ------ | --------------------------------------------------------------------- |
 | 排下週課表     | 每週     | <ul class="contains-task-list"><li><input type="checkbox"></li></ul>  |
-| 重訓一次      | 每週     | <ul class="contains-task-list"><li><input type="checkbox"> </li></ul> |
-|           |        |                                                                       |
+| 全身喚醒課表    | w      | <ul class="contains-task-list"><li><input type="checkbox"> </li></ul> |
+| 徒手訓練      |        |                                                                       |
 
 
 {% endtab %}
