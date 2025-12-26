@@ -13,8 +13,8 @@
 
 ## Monthly Review
 
-* [month 1](monthly-review/month-1.md)
-* [month 2](monthly-review/month-2.md)
+* [Month 1](monthly-review/month-1.md)
+* [Month 2](monthly-review/month-2.md)
 
 ***
 

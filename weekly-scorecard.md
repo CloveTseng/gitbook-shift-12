@@ -7,11 +7,12 @@ icon: clipboard-list-check
 
 {% tabs %}
 {% tab title="第 1 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略                                                    | 實際執行 | 說明     |
-| -------------------------------------------------------------- | ---- | ------ |
-| [投遞 5 家](tacitcs/qiu-zhi-xing-dong.md#tou-di-5-jia)            | ✩✩✩  |        |
-| [更新技術筆記](tacitcs/qiu-zhi-xing-dong.md#geng-xin-ji-shu-bi-ji)   |      | 貼上該週連結 |
-| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu.md#shen-du-gong-zuo-li) |      |        |
+| 預計關鍵行動 / 策略                                                    | 實際執行 | 說明                                                                          |
+| -------------------------------------------------------------- | ---- | --------------------------------------------------------------------------- |
+| [投遞 5 家](tacitcs/qiu-zhi-xing-dong.md#tou-di-5-jia)            |      |                                                                             |
+| [更新技術筆記](tacitcs/qiu-zhi-xing-dong.md#geng-xin-ji-shu-bi-ji)   |      | <sub><mark style="color:$info;">貼上該週連結<mark style="color:$info;"></sub>     |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu.md#shen-du-gong-zuo-li) |      | <sub><mark style="color:$info;">請簡單說明本週的心得<mark style="color:$info;"></sub> |
+| 重訓一次                                                           |      |                                                                             |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
