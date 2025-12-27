@@ -1,4 +1,5 @@
 ---
+description: 課表です
 hidden: true
 ---
 

@@ -1,8 +1,12 @@
+---
+description: 充實的大腦讓你說話充滿厚度
+---
+
 # 每月看一本書
 
 <details>
 
-<summary>深度工作力</summary>
+<summary>深度工作力 <code>w1</code></summary>
 
 `w1`
 
@@ -60,7 +64,7 @@
 
 <details>
 
-<summary>Vue3 前端測試入門</summary>
+<summary>Vue3 前端測試入門 <code>w2</code></summary>
 
 `w5`
 
@@ -89,7 +93,7 @@
 
 <details>
 
-<summary>病態人格</summary>
+<summary>病態人格 <code>w3</code> </summary>
 
 `w9`
 
