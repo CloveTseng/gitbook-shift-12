@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Vision](README.md)
-* [Master Target](<README (1).md>)
-* [Copy of Master Target](copy-of-master-target.md)
+* [Master Target](master-target.md)
+* [Master Target second](master-target-second.md)
 
 ## Tacitcs
 
