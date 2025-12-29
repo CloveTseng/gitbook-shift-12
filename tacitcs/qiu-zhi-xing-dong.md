@@ -1,5 +1,6 @@
 ---
 description: 我要成為前端工程師!!
+hidden: true
 ---
 
 # 求職行動
