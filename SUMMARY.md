@@ -2,7 +2,7 @@
 
 * [Vision](README.md)
 * [Master Target](master-target.md)
-* [Master Target second](master-target-second.md)
+* [Target](target.md)
 
 ## Tacitcs
 
