@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 深度工作力
 
 <figure><img src="../../.gitbook/assets/圖片 (2).png" alt="" width="279"><figcaption></figcaption></figure>
