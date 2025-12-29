@@ -1,5 +1,6 @@
 ---
 description: 回顧每週執行進度
+hidden: true
 icon: clipboard-list-check
 ---
 
@@ -11,7 +12,7 @@ icon: clipboard-list-check
 | ------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------------- |
 | 了解公司文化與組織架構                                                               |      |                                                                             |
 | 理解公司技術架構與開發流程                                                             |      |                                                                             |
-| [深度工作力](/broken/pages/4WWmLVuAIYxRRXoa2JQb#shen-du-gong-zuo-li)           |      | <sub><mark style="color:$info;">請簡單說明本週的心得<mark style="color:$info;"></sub> |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            |      | <sub><mark style="color:$info;">請簡單說明本週的心得<mark style="color:$info;"></sub> |
 | [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) |      | 是否有酸痛 / 或無感                                                                 |
 | 確保邵同學 YT 更新                                                               |      |                                                                             |
 
