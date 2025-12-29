@@ -7,7 +7,7 @@ icon: hands-bound
 
 ### 生活
 
-<figure><img src=".gitbook/assets/圖片.png" alt="貓宅" width="563"><figcaption><p>貓宅</p></figcaption></figure>
+<figure><img src=".gitbook/assets/圖片 (1).png" alt="貓宅" width="563"><figcaption><p>貓宅</p></figcaption></figure>
 
 買房 掰掰(?
 
@@ -33,7 +33,7 @@ icon: hands-bound
 3. 健康報告
 4. 照護費用
 
-<figure><img src=".gitbook/assets/圖片 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/圖片 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

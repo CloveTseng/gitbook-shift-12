@@ -11,7 +11,7 @@ icon: clipboard-list-check
 | ------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------------- |
 | [投遞 5 家](tacitcs/qiu-zhi-xing-dong.md#tou-di-5-jia)                       |      |                                                                             |
 | [更新技術筆記](tacitcs/qiu-zhi-xing-dong.md#geng-xin-ji-shu-bi-ji)              |      | <sub><mark style="color:$info;">貼上該週連結<mark style="color:$info;"></sub>     |
-| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu.md#shen-du-gong-zuo-li)            |      | <sub><mark style="color:$info;">請簡單說明本週的心得<mark style="color:$info;"></sub> |
+| [深度工作力](/broken/pages/4WWmLVuAIYxRRXoa2JQb#shen-du-gong-zuo-li)           |      | <sub><mark style="color:$info;">請簡單說明本週的心得<mark style="color:$info;"></sub> |
 | [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) |      | 是否有酸痛 / 或無感                                                                 |
 | 確保邵同學在 Threads 發文                                                         |      |                                                                             |
 
