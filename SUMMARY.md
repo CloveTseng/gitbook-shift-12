@@ -7,6 +7,7 @@
 ## Tacitcs
 
 * [新鳥前端職場生存計畫](tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md)
+* [更新技術筆記](tacitcs/geng-xin-ji-shu-bi-ji.md)
 * [求職行動](tacitcs/qiu-zhi-xing-dong.md)
 * [每月看一本書](tacitcs/mei-yue-kan-yi-ben-shu/README.md)
   * [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)

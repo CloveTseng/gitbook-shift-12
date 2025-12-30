@@ -12,7 +12,7 @@ icon: eyes
 | 關鍵行動 / 策略                                                                               | 預計完成週數    | 指標                                                                 |
 | --------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------ |
 | [生存與適應](tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#sheng-cun-yu-shi-ying) | w1 \~ w12 | <ul><li>了解公司文化與組織架構</li><li>理解公司技術架構與開發流程</li><li>獨立開發能力</li></ul> |
-| [更新技術筆記](tacitcs/qiu-zhi-xing-dong.md#geng-xin-ji-shu-bi-ji)                            | w5 \~ w12 | 貼上筆記連結                                                             |
+| [更新技術筆記](tacitcs/geng-xin-ji-shu-bi-ji.md)                                              | w5 \~ w12 | 貼上筆記連結                                                             |
 |                                                                                         |           |                                                                    |
 {% endtab %}
 
