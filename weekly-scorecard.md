@@ -8,7 +8,9 @@ icon: clipboard-list-check
 
 {% tabs %}
 {% tab title="第 1 週計劃與評分卡" %}
-1/4\~1/10
+`1/4~1/10`
+
+### 回顧完成的任務
 
 | 預計關鍵行動 / 策略                                                               | 實際執行 | 說明                                                                          |
 | ------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------------- |
@@ -20,10 +22,26 @@ icon: clipboard-list-check
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
+### 學習到了什麼？
 
+*
+
+### 評估能量狀態 ( 1\~5 分)
+
+$$
+\star \star \star \star \star
+$$
+
+&#x20;
+
+* [ ] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 2 週計劃與評分卡" %}
+`1/11~1/17`
+
+### 回顧完成的任務
+
 | 預計關鍵行動 / 策略 | 實際執行 | 說明 |
 | ----------- | ---- | -- |
 |             |      |    |
@@ -31,9 +49,25 @@ icon: clipboard-list-check
 |             |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+
+### 學習到了什麼？
+
+*
+
+### 評估能量狀態 ( 1\~5 分)
+
+$$
+\star \star \star \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 3 週計劃與評分卡" %}
+`1/18~1/24`
+
+### 回顧完成的任務
+
 | 預計關鍵行動 / 策略 | 實際執行 | 說明 |
 | ----------- | ---- | -- |
 |             |      |    |
@@ -42,10 +76,24 @@ icon: clipboard-list-check
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
+### 學習到了什麼？
 
+*
+
+### 評估能量狀態 ( 1\~5 分)
+
+$$
+\star \star \star \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 4 週計劃與評分卡" %}
+`1/25~1/31`
+
+### 回顧完成的任務
+
 | 預計關鍵行動 / 策略 | 實際執行 | 說明 |
 | ----------- | ---- | -- |
 |             |      |    |
@@ -54,9 +102,21 @@ icon: clipboard-list-check
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
+### 學習到了什麼？
 
+### 評估能量狀態 ( 1\~5 分)
+
+$$
+\star \star \star \star \star
+$$
+
+
+
+* [ ] 規劃下週計劃
 {% endtab %}
 {% endtabs %}
+
+
 
 {% tabs %}
 {% tab title="第 5 週計劃與評分卡" %}
