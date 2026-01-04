@@ -32,7 +32,6 @@ $$
 \star \star \star \star \star
 $$
 
-&#x20;
 
 * [ ] 規劃下週計劃
 {% endtab %}
