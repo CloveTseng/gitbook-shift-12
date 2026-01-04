@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 深度工作力
 
 <figure><img src="../../.gitbook/assets/圖片 (2).png" alt="" width="279"><figcaption></figcaption></figure>
@@ -10,11 +6,9 @@ hidden: true
 
 ### 前言
 
-
 ### 慨念
 
 #### 深度工作力，創造價值的關鍵能力
-
 
 `w2`
 
@@ -23,8 +17,6 @@ hidden: true
 *
 
 #### 深度工作力，美好生活的必要條件
-
-
 
 `w3`
 
