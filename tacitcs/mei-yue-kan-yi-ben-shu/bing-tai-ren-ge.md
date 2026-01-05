@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 病態人格
 
 <figure><img src="../../.gitbook/assets/圖片 (2) (1).png" alt="" width="271"><figcaption></figcaption></figure>

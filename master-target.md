@@ -21,16 +21,16 @@ icon: eyes
 | 關鍵行動 / 策略                                                                               | 預計完成週數    | 指標                                                                 |
 | --------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------ |
 | [生存與適應](tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#sheng-cun-yu-shi-ying) | w1 \~ w12 | <ul><li>了解公司文化與組織架構</li><li>理解公司技術架構與開發流程</li><li>獨立開發能力</li></ul> |
+| 更新 Blog                                                                                 | w3        | <ul><li>webconf 心得</li></ul>                                       |
 | [更新技術筆記](tacitcs/geng-xin-ji-shu-bi-ji.md)                                              | w5 \~ w12 | 貼上筆記連結                                                             |
-|                                                                                         |           |                                                                    |
 {% endtab %}
 
 {% tab title="目標二：每月看一本書" %}
-| 關鍵行動 / 策略   | 預計完成週數  | 指標                 |
-| ----------- | ------- | ------------------ |
-| 深度工作力       | w1\~w4  | 每週讀書心得             |
-| Vue3 前端測試入門 | w5\~w8  | 使用在 side project 上 |
-| 病態人格        | w9\~w12 | 每週讀書心得             |
+| 關鍵行動 / 策略                                                                     | 預計完成週數  | 指標                 |
+| ----------------------------------------------------------------------------- | ------- | ------------------ |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)                | w1\~w4  | 每週讀書心得             |
+| [Vue3 前端測試入門](tacitcs/mei-yue-kan-yi-ben-shu/vue3-qian-duan-ce-shi-ru-men.md) | w5\~w8  | 使用在 side project 上 |
+| [病態人格](tacitcs/mei-yue-kan-yi-ben-shu/bing-tai-ren-ge.md)                     | w9\~w12 | 每週讀書心得             |
 
 
 {% endtab %}
