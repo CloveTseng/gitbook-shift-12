@@ -14,6 +14,8 @@ description: 活下來!! 最少要待滿 2 年呀!!!!
 * 團隊氛圍： 同事之間討論問題是互相幫忙，還是推諉責任？
 * 開發流程： 是否有基本的 Git 版本控制、專案管理工具（如 Jira/Trello）？如果連基本的 Commit 規範都沒有，未來維護會很痛苦。
 
+<figure><img src="../.gitbook/assets/圖片 (3).png" alt="" width="188"><figcaption></figcaption></figure>
+
 > w1：先熟悉公司環境跟文化，
 
 `w5~w8`
@@ -47,14 +49,11 @@ description: 活下來!! 最少要待滿 2 年呀!!!!
 * 理解公司技術架構與開發流程 `w2~w4`
   * 熟悉公司的環境建置習慣與 git flow
   * CI/CD 流程
-  * TypeScript：專案怎麼定義 `type`&#x20;
+  * TypeScript：專案怎麼定義 `type`
   * Vue：觀察專案的目錄架構（`components/`, `composables/`, `middleware/`），注意團隊如何拆解 SFC 以及 Composition API 的封裝邏輯
   * API 串接： 檢查專案中 `axios` 或 `ohmyfetch` 的封裝方式，了解攔截器（Interceptors）如何處理 Token 或報錯。
 * 獨立開發能力 `w9~w12`
   * 爭取拿到獨立開發專案
   * 善用 Obsidian： 將公司專案中常見的 `type` 定義方式、特殊的開發規範記錄在 Obsidian 中，建立自己的「公司技術知識庫」。
 
-
-
 </details>
-
