@@ -17,22 +17,23 @@ icon: clipboard-list-check
 | 理解公司技術架構與開發流程                                                             | <ul class="contains-task-list"><li><input type="checkbox" checked>熟悉公司的環境建置習慣與 git flow</li><li><input type="checkbox" checked>Vue：觀察專案的目錄架構</li><li><input type="checkbox">API 串接 <code>(目前還沒遇到)</code></li></ul>               | <ul><li>公司用 gitlab ，小方張了一下</li><li>呀…公司基本沒有前端半年了，跟本就是鬼故事XD</li></ul>                                                   |
 | [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            | [#qian-yan](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#qian-yan "mention")                                                                                                                                            | <sub><mark style="color:$info;">請簡單說明本週的心得<mark style="color:$info;"></sub>                                            |
 | 列出公司待辦清單                                                                  | [#qi-ye-wen-hua-yu-ti-zhi-de-chu-bu-gan-shou](tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#qi-ye-wen-hua-yu-ti-zhi-de-chu-bu-gan-shou "mention")                                                                     | 這是本週新增加的 target                                                                                                        |
-| [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) |                                                                                                                                                                                                                                  | 是否有酸痛 / 或無感                                                                                                            |
+| [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) | <ul class="contains-task-list"><li><input type="checkbox" checked>關節在哀號</li></ul>                                                                                                                                                | 是否有酸痛 / 或無感                                                                                                            |
 | 確保邵同學 YT 更新                                                               | <ul class="contains-task-list"><li><input type="checkbox" checked></li></ul>                                                                                                                                                     | 本週跟邵同學先討論更新計劃的方向與規劃，以及更新大綱                                                                                             |
 
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">9/10 x 100 = 90%</td></tr></tbody></table>
 
 #### 學習到了什麼？
 
-*
+* 本週新學習到了 gitlab 的界面操作與使用
+* 複習了一下 Vue3，然後工作上開發居然有 Vue2...我…需要熟悉一下…
 
 #### 評估能量狀態 ( 1\~5 分)
 
 $$
-\star \star \star \star \star
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
 $$
 
-* [ ] 規劃下週計劃
+* [x] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 2 週計劃與評分卡" %}
@@ -40,11 +41,13 @@ $$
 
 #### 回顧完成的任務
 
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
+| 預計關鍵行動 / 策略                                                               | 實際執行 | 說明 |
+| ------------------------------------------------------------------------- | ---- | -- |
+| 理解公司技術架構與專案                                                               |      |    |
+| 增加待辦清單                                                                    |      |    |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            |      |    |
+| [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) |      |    |
+| 確保邵同學 YT 更新                                                               |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
@@ -114,6 +117,8 @@ $$
 
 {% tabs %}
 {% tab title="第 5 週計劃與評分卡" %}
+
+
 | 預計關鍵行動 / 策略 | 實際執行 | 說明 |
 | ----------- | ---- | -- |
 |             |      |    |
