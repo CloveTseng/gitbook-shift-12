@@ -33,11 +33,11 @@ icon: eyes
 {% endtab %}
 
 {% tab title="目標二：每月看一本書" %}
-| 關鍵行動 / 策略                                                                     | 預計完成週數  | 指標                 |
-| ----------------------------------------------------------------------------- | ------- | ------------------ |
-| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)                | w1\~w4  | 每週讀書心得             |
-| [Vue3 前端測試入門](tacitcs/mei-yue-kan-yi-ben-shu/vue3-qian-duan-ce-shi-ru-men.md) | w5\~w8  | 使用在 side project 上 |
-| [病態人格](tacitcs/mei-yue-kan-yi-ben-shu/bing-tai-ren-ge.md)                     | w9\~w12 | 每週讀書心得             |
+| 關鍵行動 / 策略                                                                                 | 預計完成週數  | 指標             |
+| ----------------------------------------------------------------------------------------- | ------- | -------------- |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)                            | w1\~w4  | 每週讀書心得         |
+| [Vue.js 3前端開發不踩雷](tacitcs/mei-yue-kan-yi-ben-shu/vue.js-3-qian-duan-kai-fa-bu-cai-lei.md) | w5\~w8  | 想要穩固自己的 Vue 技能 |
+| [病態人格](tacitcs/mei-yue-kan-yi-ben-shu/bing-tai-ren-ge.md)                                 | w9\~w12 | 每週讀書心得         |
 {% endtab %}
 
 {% tab title="目標三：每週重訓一次" %}
