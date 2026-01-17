@@ -51,16 +51,17 @@ $$
 | 海老闆每日任務                                                                   | ✔️✔️                                                                                                                                                                       | 本週從星期四開始                                                                                                                                                                                 |
 | 海老闆主線任務                                                                   | <p></p><ul class="contains-task-list"><li><input type="checkbox" checked>主線任務二</li></ul>                                                                                   |                                                                                                                                                                                          |
 
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">6/7 x100 = 90%</td></tr></tbody></table>
 
 #### 學習到了什麼？
 
-*
+* 本週接觸到了 API 因為是接舊有的 API 所以卡在 DevTools 一下子，後來問前輩推薦我使用 `Insomnia` 去測 API 會比直接看 DevTools 容易一點
+* 對 DevTools 真的很不熟，特別是 Network 那一區qq 想到之前掃過 「你所不知道的各種前端 Debug 技巧」一書，決定上班的時候再一點一點仔細看起來
 
 #### 評估能量狀態 ( 1\~5 分)
 
 $$
-\star \star \star \star \star
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
 $$
 
 * [ ] 規劃下週計劃
