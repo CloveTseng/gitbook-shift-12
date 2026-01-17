@@ -47,7 +47,7 @@ $$
 | 增加待辦清單                                                                    | ![](<.gitbook/assets/圖片 (6).png>)                                                                                                                                          | <p>by 大人學<br>想在這個公司完成的事情</p>                                                                                                                                                             |
 | [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            | [#dang-shen-du-yu-xi-you-jiu-yue-zhi-de-ni-tou-ru](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#dang-shen-du-yu-xi-you-jiu-yue-zhi-de-ni-tou-ru "mention")        |                                                                                                                                                                                          |
 | [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) | <ul class="contains-task-list"><li><input type="checkbox"></li></ul>                                                                                                       | 本週好忙qq…連假日都滿了，不過有每日 10000步，就讓我偷懶一下                                                                                                                                                       |
-| 確保邵同學 YT 更新                                                               | ✔️                                                                                                                                                                         |                                                                                                                                                                                          |
+| 確保邵同學 YT 更新                                                               | <ul class="contains-task-list"><li><input type="checkbox" checked> </li></ul>                                                                                              |                                                                                                                                                                                          |
 | 海老闆每日任務                                                                   | ✔️✔️                                                                                                                                                                       | 本週從星期四開始                                                                                                                                                                                 |
 | 海老闆主線任務                                                                   | <p></p><ul class="contains-task-list"><li><input type="checkbox" checked>主線任務二</li></ul>                                                                                   |                                                                                                                                                                                          |
 
@@ -64,7 +64,7 @@ $$
 \color{#FFD700} \bigstar \bigstar \bigstar \star \star
 $$
 
-* [ ] 規劃下週計劃
+* [x] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 3 週計劃與評分卡" %}
@@ -72,11 +72,15 @@ $$
 
 #### 回顧完成的任務
 
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
+| 預計關鍵行動 / 策略                                                               | 實際執行                                                                                | 說明                 |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------ |
+| 理解公司技術架構與專案                                                               |                                                                                     |                    |
+| 增加待辦清單                                                                    |                                                                                     |                    |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            | [#yuan-ze](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#yuan-ze "mention") |                    |
+| [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) |                                                                                     |                    |
+| 確保邵同學 YT 更新                                                               |                                                                                     |                    |
+| 海老闆每日任務                                                                   |                                                                                     | <sub>本週要 5 個</sub> |
+|                                                                           |                                                                                     |                    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
