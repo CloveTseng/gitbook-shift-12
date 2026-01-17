@@ -41,13 +41,13 @@ $$
 
 #### 回顧完成的任務
 
-| 預計關鍵行動 / 策略                                                               | 實際執行 | 說明 |
-| ------------------------------------------------------------------------- | ---- | -- |
-| 理解公司技術架構與專案                                                               |      |    |
-| 增加待辦清單                                                                    |      |    |
-| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            |      |    |
-| [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) |      |    |
-| 確保邵同學 YT 更新                                                               |      |    |
+| 預計關鍵行動 / 策略                                                               | 實際執行                                                                                                                                                                       | 說明                                                                                                                                                                                       |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 理解公司技術架構與專案                                                               | <ul class="contains-task-list"><li><input type="checkbox" checked>溝通效率</li><li><input type="checkbox" checked>壓力測試</li><li><input type="checkbox" checked>API 串接</li></ul> | [#di-yi-ge-yue-gong-zuo-jie-zou-yu-ji-shu-zhan-de-qi-he-du](tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#di-yi-ge-yue-gong-zuo-jie-zou-yu-ji-shu-zhan-de-qi-he-du "mention") |
+| 增加待辦清單                                                                    |                                                                                                                                                                            |                                                                                                                                                                                          |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            |                                                                                                                                                                            |                                                                                                                                                                                          |
+| [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) |                                                                                                                                                                            |                                                                                                                                                                                          |
+| 確保邵同學 YT 更新                                                               |                                                                                                                                                                            |                                                                                                                                                                                          |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
