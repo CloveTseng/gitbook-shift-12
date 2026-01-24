@@ -79,7 +79,7 @@ $$
 | [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            | [#yuan-ze](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#yuan-ze "mention") |                    |
 | [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) |                                                                                     |                    |
 | 確保邵同學 YT 更新                                                               |                                                                                     |                    |
-| 海老闆每日任務                                                                   |                                                                                     | <sub>本週要 5 個</sub> |
+| 海老闆每日任務                                                                   | ![](<.gitbook/assets/圖片 (7).png>)                                                   | <sub>本週要 5 個</sub> |
 |                                                                           |                                                                                     |                    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
