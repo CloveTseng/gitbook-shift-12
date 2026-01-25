@@ -96,7 +96,7 @@ $$
 \color{#FFD700} \bigstar \bigstar \bigstar \star \star
 $$
 
-* [ ] 規劃下週計劃
+* [x] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 4 週計劃與評分卡" %}
@@ -104,11 +104,16 @@ $$
 
 #### 回顧完成的任務
 
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
+| 預計關鍵行動 / 策略                                                    | 實際執行                                                                                                                                                      | 說明                        |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| 理解公司技術架構與專案                                                    | <p></p><ul class="contains-task-list"><li><input type="checkbox">溝通效率</li><li><input type="checkbox">壓力測試</li><li><input type="checkbox">API 串接</li></ul> | <sub>新鳥居然要一個月了</sub>      |
+| 增加待辦清單                                                         |                                                                                                                                                           | <sub>準備開始評估有沒有辦法跑待辦</sub> |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md) | [#xue-hui-yong-bao-wu-liao](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#xue-hui-yong-bao-wu-liao "mention")                                     | <sub>最終回</sub>            |
+| 確保邵同學 YT 更新                                                    |                                                                                                                                                           |                           |
+| 海老闆每日任務                                                        |                                                                                                                                                           | <sub>要有五個</sub>           |
+| 每日 10000 + 八段錦                                                 |                                                                                                                                                           | <sub>頻率變每日</sub>          |
+
+
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
