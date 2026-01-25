@@ -87,6 +87,7 @@ $$
 #### 學習到了什麼？
 
 * 本週學習到了 CORS 的知識 [#w3](tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w3 "mention")
+* 還有 SQL 的 Schema
 * 做了初階的後端體驗營作業，進階一開始卡 ip 所以還沒做完
 * 因為剛好公司有個專案也是用 docker 包著前後端的檔案，就邊看了海老闆提供的專案的前後端架構，來學習。
 
