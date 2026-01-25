@@ -76,22 +76,23 @@ $$
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 理解公司技術架構與專案                                                               | <p></p><ul class="contains-task-list"><li><input type="checkbox" checked>溝通效率</li><li><input type="checkbox" checked>壓力測試</li><li><input type="checkbox">API 串接</li></ul> | [#w3](tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w3 "mention")     |
 | 增加待辦清單                                                                    | ![](<.gitbook/assets/圖片 (8).png>)                                                                                                                                         | 在玩 ai 能力測驗的時候，忽然驚醒為啥我沒用 ai 來跑測試、為啥我沒讓他自動化發 PR description …why                   |
-| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            | [#yuan-ze](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#yuan-ze "mention")❌                                                                                      | 看完了，但來不及寫本週的                                                                     |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md)            | [#yuan-ze](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#yuan-ze "mention")❌                                                                                      | 本週章節看完了，但只寫了一半                                                                   |
 | [全身喚醒課表](tacitcs/mei-zhou-zhong-xun-yi-ci.md#quan-shen-huan-xing-ke-biao) | ❌                                                                                                                                                                         | <ul><li>我就懶…但依舊是每天 10000 步…考慮要不要改成每天 10000 步+拉伸</li><li>並且星期日有打 2 小的羽球</li></ul> |
 | 確保邵同學 YT 更新                                                               | 督了 ✔️                                                                                                                                                                     | 但只來得及寫大綱                                                                         |
 | 海老闆每日任務                                                                   | ![](<.gitbook/assets/圖片 (7).png>)                                                                                                                                         | <sub>本週要 5 個</sub>                                                               |
 |                                                                           |                                                                                                                                                                           |                                                                                  |
 
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">/12 x 100 = </td></tr></tbody></table>
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">9.5/12 x 100 = 79%</td></tr></tbody></table>
 
 #### 學習到了什麼？
 
-*
+* 本週學習到了 CORS 的知識 [#w3](tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w3 "mention")
+* 做了初階的後端體驗營作業，進階一開始卡 ip 所以還沒做完
 
 #### 評估能量狀態 ( 1\~5 分)
 
 $$
-\star \star \star \star \star
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
 $$
 
 * [ ] 規劃下週計劃
