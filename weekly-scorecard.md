@@ -105,14 +105,14 @@ $$
 
 #### 回顧完成的任務
 
-| 預計關鍵行動 / 策略                                                    | 實際執行                                                                                                                                                      | 說明                        |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| 理解公司技術架構與專案                                                    | <p></p><ul class="contains-task-list"><li><input type="checkbox">溝通效率</li><li><input type="checkbox">壓力測試</li><li><input type="checkbox">API 串接</li></ul> | <sub>新鳥居然要一個月了</sub>      |
-| 增加待辦清單                                                         |                                                                                                                                                           | <sub>準備開始評估有沒有辦法跑待辦</sub> |
-| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md) | [#xue-hui-yong-bao-wu-liao](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#xue-hui-yong-bao-wu-liao "mention")                                     | <sub>最終回</sub>            |
-| 確保邵同學 YT 更新                                                    |                                                                                                                                                           |                           |
-| 海老闆每日任務                                                        |                                                                                                                                                           | <sub>要有五個</sub>           |
-| 每日 10000 + 八段錦                                                 |                                                                                                                                                           | <sub>頻率變每日</sub>          |
+| 預計關鍵行動 / 策略                                                    | 實際執行                                                                                                                                                      | 說明                                              |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 理解公司技術架構與專案                                                    | <p></p><ul class="contains-task-list"><li><input type="checkbox">溝通效率</li><li><input type="checkbox">壓力測試</li><li><input type="checkbox">API 串接</li></ul> | <sub>新鳥居然要一個月了</sub>                            |
+| 增加待辦清單                                                         | <p>本週沒有新增，但評估之後覺得太急了，<br>還是需要觀察及習慣公司文化與工作模式</p>                                                                                                           | <p><sub><del>準備開始評估有沒有辦法跑待辦</del></sub><br></p> |
+| [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md) | [#xue-hui-yong-bao-wu-liao](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#xue-hui-yong-bao-wu-liao "mention")                                     | <sub>最終回</sub>                                  |
+| 確保邵同學 YT 更新                                                    |                                                                                                                                                           |                                                 |
+| 海老闆每日任務                                                        |                                                                                                                                                           | <sub>要有五個</sub>                                 |
+| 每日 10000 + 八段錦                                                 |                                                                                                                                                           | <sub>頻率變每日</sub>                                |
 
 
 
