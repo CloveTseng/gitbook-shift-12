@@ -110,13 +110,13 @@ $$
 | 理解公司技術架構與專案                                                    | <p></p><ul class="contains-task-list"><li><input type="checkbox" checked>溝通效率</li><li><input type="checkbox" checked>壓力測試</li><li><input type="checkbox" checked>API 串接</li></ul> | <p><sub>新鳥居然要一個月了</sub><br><a data-mention href="tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w4">#w4</a></p> |
 | 增加待辦清單                                                         | <p>本週沒有新增，但評估之後覺得太急了，<br>還是需要觀察及習慣公司文化與工作模式</p>                                                                                                                                   | <p><sub><del>準備開始評估有沒有辦法跑待辦</del></sub><br><sub>還需要適應工作的節奏</sub></p>                                                      |
 | [深度工作力](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md) | [#xue-hui-yong-bao-wu-liao](tacitcs/mei-yue-kan-yi-ben-shu/shen-du-gong-zuo-li.md#xue-hui-yong-bao-wu-liao "mention")                                                             | <sub>最終回</sub>                                                                                                            |
-| 確保邵同學 YT 更新                                                    | ✅                                                                                                                                                                                 |                                                                                                                           |
+| 確保邵同學 YT 更新                                                    | ✅                                                                                                                                                                                 | <sub>我們正在重新制定目標</sub>                                                                                                     |
 | 海老闆每日任務                                                        | <img src=".gitbook/assets/圖片 (9).png" alt="" data-size="original">                                                                                                                | 完美結局很棒，但普通結局跟本我現在的心境…看到差點哭粗來                                                                                              |
 | 每日 10000 + 八段錦                                                 | ✅                                                                                                                                                                                 | <sub>頻率變每日</sub>                                                                                                          |
 
 
 
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">6 / 12 x 100 = 58%</td></tr></tbody></table>
 
 #### 學習到了什麼？
 
