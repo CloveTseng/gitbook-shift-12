@@ -121,7 +121,7 @@ $$
 #### 學習到了什麼？
 
 * 看了龍哥的你在學習還是在偷懶，重新好好的反思自己 vibe coding 的專案 <sub>(才沒有，那個專案就爆炸吧!!</sub>
-* 在海姐公司畢業了，雖然才短短一個月，但真的陪伴了我整個風風雨雨
+* 在[海姐公司畢業](tacitcs/hai-jie-gong-si-bi-ye.md)了，雖然才短短一個月，但真的陪伴了我整個風風雨雨
 
 #### 評估能量狀態 ( 1\~5 分)
 
@@ -129,7 +129,7 @@ $$
 \color{#FFD700} \bigstar \bigstar \star \star \star
 $$
 
-* [ ] 規劃下週計劃
+* [x] 規劃下週計劃
 {% endtab %}
 {% endtabs %}
 
@@ -137,11 +137,12 @@ $$
 {% tab title="第 5 週計劃與評分卡" %}
 
 
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
+| 預計關鍵行動 / 策略                                                                                                                 | 實際執行                                                                                                                                                | 說明                                                      |
+| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 理解公司技術架構與專案                                                                                                                 | <ul class="contains-task-list"><li><input type="checkbox">溝通效率 </li><li><input type="checkbox">壓力測試</li><li><input type="checkbox">API 串接</li></ul> |                                                         |
+| 確保邵同學履歷更新                                                                                                                   |                                                                                                                                                     | <ul><li>github README</li><li>履歷</li><li>個人網站</li></ul> |
+| [vue.js-3-qian-duan-kai-fa-bu-cai-lei.md](tacitcs/mei-yue-kan-yi-ben-shu/vue.js-3-qian-duan-kai-fa-bu-cai-lei.md "mention") |                                                                                                                                                     |                                                         |
+| 每日 10000 + 八段錦                                                                                                              |                                                                                                                                                     |                                                         |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 {% endtab %}
