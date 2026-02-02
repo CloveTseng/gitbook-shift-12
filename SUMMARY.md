@@ -15,6 +15,7 @@
   * [Vue3 前端測試入門](tacitcs/mei-yue-kan-yi-ben-shu/vue3-qian-duan-ce-shi-ru-men.md)
   * [病態人格](tacitcs/mei-yue-kan-yi-ben-shu/bing-tai-ren-ge.md)
 * [每週重訓一次](tacitcs/mei-zhou-zhong-xun-yi-ci.md)
+* [🥺 海姐公司畢業](tacitcs/hai-jie-gong-si-bi-ye.md)
 * [全身喚醒課表\_gym\_log](tacitcs/quan-shen-huan-xing-ke-biao-gymlog.md)
 
 ***
