@@ -18,6 +18,16 @@ icon: clipboard-list-check
 | 每日 10000 + 八段錦                                                                                                              | ✅                                                                                                                                                   | 坐姿不良腰好像有點痛？                                                                                                                                                                         |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+
+#### 學習到了什麼？
+
+#### 評估能量狀態 ( 1\~5 分)
+
+$$
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 6 週計劃與評分卡" %}
@@ -30,6 +40,16 @@ icon: clipboard-list-check
 |             |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+
+#### 學習到了什麼？
+
+#### 評估能量狀態 ( 1\~5 分)
+
+$$
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 7 週計劃與評分卡" %}
@@ -42,6 +62,16 @@ icon: clipboard-list-check
 |             |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+
+#### 學習到了什麼？
+
+#### 評估能量狀態 ( 1\~5 分)
+
+$$
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 8 週計劃與評分卡" %}
@@ -54,6 +84,16 @@ icon: clipboard-list-check
 |             |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+
+#### 學習到了什麼？
+
+#### 評估能量狀態 ( 1\~5 分)
+
+$$
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 {% endtabs %}
 
@@ -66,6 +106,16 @@ icon: clipboard-list-check
 |             |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+
+#### 學習到了什麼？
+
+#### 評估能量狀態 ( 1\~5 分)
+
+$$
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 10 週計劃與評分卡" %}
@@ -76,6 +126,16 @@ icon: clipboard-list-check
 |             |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+
+#### 學習到了什麼？
+
+#### 評估能量狀態 ( 1\~5 分)
+
+$$
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 11 週計劃與評分卡" %}
@@ -86,6 +146,16 @@ icon: clipboard-list-check
 |             |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+
+#### 學習到了什麼？
+
+#### 評估能量狀態 ( 1\~5 分)
+
+$$
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 12 週計劃與評分卡" %}
@@ -96,6 +166,16 @@ icon: clipboard-list-check
 |             |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+
+#### 學習到了什麼？
+
+#### 評估能量狀態 ( 1\~5 分)
+
+$$
+\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+$$
+
+* [ ] 規劃下週計劃
 {% endtab %}
 {% endtabs %}
 
@@ -232,4 +312,3 @@ $$
 * [x] 規劃下週計劃
 {% endtab %}
 {% endtabs %}
-
