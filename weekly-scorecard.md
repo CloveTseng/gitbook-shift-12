@@ -6,6 +6,98 @@ icon: clipboard-list-check
 # Weekly Scorecard
 
 {% tabs %}
+{% tab title="第 5 週計劃與評分卡" %}
+
+
+| 預計關鍵行動 / 策略                                                                                                                 | 實際執行                                                                                                                                                | 說明                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 理解公司技術架構與專案                                                                                                                 | <ul class="contains-task-list"><li><input type="checkbox">溝通效率 </li><li><input type="checkbox">壓力測試</li><li><input type="checkbox">API 串接</li></ul> |                                                                                                                                                                                     |
+| 確保邵同學履歷更新                                                                                                                   | ✅ 多虧了神獸肉 Gui 捲的每日任務                                                                                                                                 | <ul><li>github README</li><li>履歷</li><li>個人網站</li></ul>                                                                                                                             |
+| 更新 Blog                                                                                                                     | ✅                                                                                                                                                   | <ul><li>補 <a href="https://clovetseng.dev/blog/2025-review-2026-outlook">2025 review</a></li><li><a href="https://clovetseng.dev/blog/2026/2026-backend-camp">後端體驗營心得</a></li></ul> |
+| [vue.js-3-qian-duan-kai-fa-bu-cai-lei.md](tacitcs/mei-yue-kan-yi-ben-shu/vue.js-3-qian-duan-kai-fa-bu-cai-lei.md "mention") |                                                                                                                                                     |                                                                                                                                                                                     |
+| 每日 10000 + 八段錦                                                                                                              | ✅                                                                                                                                                   | 坐姿不良腰好像有點痛？                                                                                                                                                                         |
+
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="第 6 週計劃與評分卡" %}
+| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
+| ----------- | ---- | -- |
+|             |      |    |
+|             |      |    |
+|             |      |    |
+
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="第 7 週計劃與評分卡" %}
+| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
+| ----------- | ---- | -- |
+|             |      |    |
+|             |      |    |
+|             |      |    |
+
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="第 8 週計劃與評分卡" %}
+| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
+| ----------- | ---- | -- |
+|             |      |    |
+|             |      |    |
+|             |      |    |
+
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="第 9 週計劃與評分卡" %}
+| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
+| ----------- | ---- | -- |
+|             |      |    |
+|             |      |    |
+|             |      |    |
+
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="第 10 週計劃與評分卡" %}
+| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
+| ----------- | ---- | -- |
+|             |      |    |
+|             |      |    |
+|             |      |    |
+
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="第 11 週計劃與評分卡" %}
+| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
+| ----------- | ---- | -- |
+|             |      |    |
+|             |      |    |
+|             |      |    |
+
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="第 12 週計劃與評分卡" %}
+| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
+| ----------- | ---- | -- |
+|             |      |    |
+|             |      |    |
+|             |      |    |
+
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+{% endtab %}
+{% endtabs %}
+
+***
+
+Archive
+
+{% tabs %}
 {% tab title="第 1 週計劃與評分卡" %}
 `1/4~1/10`
 
@@ -133,90 +225,3 @@ $$
 {% endtab %}
 {% endtabs %}
 
-{% tabs %}
-{% tab title="第 5 週計劃與評分卡" %}
-
-
-| 預計關鍵行動 / 策略                                                                                                                 | 實際執行                                                                                                                                                | 說明                                                                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 理解公司技術架構與專案                                                                                                                 | <ul class="contains-task-list"><li><input type="checkbox">溝通效率 </li><li><input type="checkbox">壓力測試</li><li><input type="checkbox">API 串接</li></ul> |                                                                                                                                                                                     |
-| 確保邵同學履歷更新                                                                                                                   | ✅ 多虧了神獸肉 Gui 捲的每日任務                                                                                                                                 | <ul><li>github README</li><li>履歷</li><li>個人網站</li></ul>                                                                                                                             |
-| 更新 Blog                                                                                                                     | ✅                                                                                                                                                   | <ul><li>補 <a href="https://clovetseng.dev/blog/2025-review-2026-outlook">2025 review</a></li><li><a href="https://clovetseng.dev/blog/2026/2026-backend-camp">後端體驗營心得</a></li></ul> |
-| [vue.js-3-qian-duan-kai-fa-bu-cai-lei.md](tacitcs/mei-yue-kan-yi-ben-shu/vue.js-3-qian-duan-kai-fa-bu-cai-lei.md "mention") |                                                                                                                                                     |                                                                                                                                                                                     |
-| 每日 10000 + 八段錦                                                                                                              | ✅                                                                                                                                                   | 坐姿不良腰好像有點痛？                                                                                                                                                                         |
-
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="第 6 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
-
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="第 7 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
-
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="第 8 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
-
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="第 9 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
-
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="第 10 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
-
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="第 11 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
-
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="第 12 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
-
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
-{% endtab %}
-{% endtabs %}
