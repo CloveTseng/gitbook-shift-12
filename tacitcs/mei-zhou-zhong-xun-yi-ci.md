@@ -1,5 +1,6 @@
 ---
 description: 因為皮質醇考量，一週先從一次開始
+hidden: true
 ---
 
 # 每週重訓一次
