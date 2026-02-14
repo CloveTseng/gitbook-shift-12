@@ -49,25 +49,25 @@ $$
 
 #### 學習到了什麼？
 
+* 玩了一下 obsidian 的新功能 base
 *
 
 #### 評估能量狀態 ( 1\~5 分)
 
 $$
-\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+\color{#FFD700} \bigstar \bigstar \bigstar \bigstar \star
 $$
 
-* [ ] 規劃下週計劃
+* [x] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 7 週計劃與評分卡" %}
 `2/15 ~ 2/21`
 
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
+| 預計關鍵行動 / 策略                                                                                                                 | 實際執行 | 說明 |
+| --------------------------------------------------------------------------------------------------------------------------- | ---- | -- |
+| [vue.js-3-qian-duan-kai-fa-bu-cai-lei.md](tacitcs/mei-yue-kan-yi-ben-shu/vue.js-3-qian-duan-kai-fa-bu-cai-lei.md "mention") |      |    |
+|                                                                                                                             |      |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
