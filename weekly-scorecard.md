@@ -98,7 +98,7 @@ $$
 | 每日 10000 + 八段錦                                                                                                              | ✅                                                                                                                                    |                                                                                                                                            |
 | 寫一個工作日報產生器                                                                                                                  | 只來得及建立，尚未測試                                                                                                                          | 使用 agent skill                                                                                                                             |
 | 補完 git card                                                                                                                 | ✅                                                                                                                                    | <p><sub>使用 obsidian base</sub><br><sub>不是…obsidian 也出 cli 是哪招ww</sub></p>                                                                  |
-| [vue.js-3-qian-duan-kai-fa-bu-cai-lei.md](tacitcs/mei-yue-kan-yi-ben-shu/vue.js-3-qian-duan-kai-fa-bu-cai-lei.md "mention") | 看書真的會睡著吶\~我直接叫 notebookLM 幫我匯整成測驗題，以及 vibe 出一個互動式學習網站<sub>(目前還在產文件對焦的階段)</sub>                                                       | <img src=".gitbook/assets/圖片 (11).png" alt="" data-size="original"><sub>目前文件約 9000 多字增加中</sub>                                             |
+| [vue.js-3-qian-duan-kai-fa-bu-cai-lei.md](tacitcs/mei-yue-kan-yi-ben-shu/vue.js-3-qian-duan-kai-fa-bu-cai-lei.md "mention") | 看書真的會睡著吶\~我直接叫 notebookLM 幫我匯整成測驗題，以及 vibe 出一個互動式 vue3 複習網站 <sub>(目前還在產文件對焦的階段)</sub>                                                | <img src=".gitbook/assets/圖片 (11).png" alt="" data-size="original"><sub>目前文件約 9000 多字增加中</sub>                                             |
 | 捲老闆春酒宴                                                                                                                      | ✅                                                                                                                                    | 恭喜捲老闆往百萬人生成就中                                                                                                                              |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">11 / 13 x 100 = 85%</td></tr></tbody></table>
@@ -114,17 +114,21 @@ $$
 \color{#FFD700} \bigstar \bigstar \bigstar \star \star
 $$
 
-* [ ] 規劃下週計劃
+* [x] 規劃下週計劃
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
 {% tab title="第 9 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
+| 預計關鍵行動 / 策略                                                                       | 實際執行                                                                                                                                           | 說明                                                                                                                                                         |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 核心價值與未來性                                                                          | <ul class="contains-task-list"><li><input type="checkbox">成長價值</li><li><input type="checkbox">反饋機制</li><li><input type="checkbox">直覺</li></ul> |                                                                                                                                                            |
+| 確保邵同學履歷投遞                                                                         |                                                                                                                                                |                                                                                                                                                            |
+| Gui 教練的每日任務                                                                       |                                                                                                                                                | [我盯著你寫履歷 👀 - 每日任務](https://hackmd.io/@gfW814OqQNW3-GopXH4oRw/HJXoBIww-g/https%3A%2F%2Fhackmd.io%2F%40gfW814OqQNW3-GopXH4oRw%2FrkykILwPZx) <sub>要有五個</sub> |
+| 每日 10000 + 八段錦                                                                    |                                                                                                                                                |                                                                                                                                                            |
+| 寫一個工作日報產生器                                                                        |                                                                                                                                                | 測試與調整                                                                                                                                                      |
+| [bing-tai-ren-ge.md](tacitcs/mei-yue-kan-yi-ben-shu/bing-tai-ren-ge.md "mention") |                                                                                                                                                |                                                                                                                                                            |
+| Vue3 複習互動頁                                                                        |                                                                                                                                                | phase1 & phase1.5                                                                                                                                          |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
