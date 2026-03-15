@@ -120,21 +120,23 @@ $$
 
 {% tabs %}
 {% tab title="第 9 週計劃與評分卡" %}
+`3/1~3/7`
 
+| 預計關鍵行動 / 策略                                                                       | 實際執行                                                                                                                                                                   | 說明                                                                                                                                                         |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 核心價值與未來性                                                                          | <ul class="contains-task-list"><li><input type="checkbox" checked>成長價值</li><li><input type="checkbox" checked>反饋機制</li><li><input type="checkbox" checked>直覺</li></ul> | <sub>覺得新鳥計劃蠻助於我每週反思職涯的，後面考慮再出續集</sub>                                                                                                                      |
+| 確保邵同學履歷投遞                                                                         | ✅                                                                                                                                                                      |                                                                                                                                                            |
+| Gui 教練的每日任務                                                                       | ✅✅✅✅✅                                                                                                                                                                  | [我盯著你寫履歷 👀 - 每日任務](https://hackmd.io/@gfW814OqQNW3-GopXH4oRw/HJXoBIww-g/https%3A%2F%2Fhackmd.io%2F%40gfW814OqQNW3-GopXH4oRw%2FrkykILwPZx) <sub>要有五個</sub> |
+| 每日 10000 + 八段錦                                                                    | ✅                                                                                                                                                                      |                                                                                                                                                            |
+| 寫一個工作日報產生器                                                                        | ✅                                                                                                                                                                      | 測試與調整                                                                                                                                                      |
+| [bing-tai-ren-ge.md](tacitcs/mei-yue-kan-yi-ben-shu/bing-tai-ren-ge.md "mention") | 哎…忘了看了                                                                                                                                                                 |                                                                                                                                                            |
+| Vue3 複習互動頁                                                                        | <img src=".gitbook/assets/圖片 (16).png" alt="" data-size="original">                                                                                                    | <p>phase1 &#x26; phase1.5<br><img src=".gitbook/assets/圖片 (13).png" alt=""><br></p>                                                                        |
 
-| 預計關鍵行動 / 策略                                                                       | 實際執行                                                                                                                                           | 說明                                                                                                                                                         |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 核心價值與未來性                                                                          | <ul class="contains-task-list"><li><input type="checkbox">成長價值</li><li><input type="checkbox">反饋機制</li><li><input type="checkbox">直覺</li></ul> | <sub>覺得新鳥計劃蠻助於我每週反思職涯的，後面考慮再出續集</sub>                                                                                                                      |
-| 確保邵同學履歷投遞                                                                         |                                                                                                                                                |                                                                                                                                                            |
-| Gui 教練的每日任務                                                                       |                                                                                                                                                | [我盯著你寫履歷 👀 - 每日任務](https://hackmd.io/@gfW814OqQNW3-GopXH4oRw/HJXoBIww-g/https%3A%2F%2Fhackmd.io%2F%40gfW814OqQNW3-GopXH4oRw%2FrkykILwPZx) <sub>要有五個</sub> |
-| 每日 10000 + 八段錦                                                                    |                                                                                                                                                |                                                                                                                                                            |
-| 寫一個工作日報產生器                                                                        |                                                                                                                                                | 測試與調整                                                                                                                                                      |
-| [bing-tai-ren-ge.md](tacitcs/mei-yue-kan-yi-ben-shu/bing-tai-ren-ge.md "mention") |                                                                                                                                                |                                                                                                                                                            |
-| Vue3 複習互動頁                                                                        | <img src=".gitbook/assets/圖片 (16).png" alt="" data-size="original">                                                                            | <p>phase1 &#x26; phase1.5<br><img src=".gitbook/assets/圖片 (13).png" alt=""><br></p>                                                                        |
-
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">13/14x100 = 93%</td></tr></tbody></table>
 
 #### 學習到了什麼？
+
+
 
 #### 評估能量狀態 ( 1\~5 分)
 
@@ -142,15 +144,15 @@ $$
 \color{#FFD700} \bigstar \bigstar \bigstar \star \star
 $$
 
-* [ ] 規劃下週計劃
+* [x] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 10 週計劃與評分卡" %}
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
+| 預計關鍵行動 / 策略 | 實際執行                                                                                                                                                                          | 說明 |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| 核心價值與未來性    | <p></p><ul class="contains-task-list"><li><input type="checkbox" checked>成長價值</li><li><input type="checkbox" checked>反饋機制</li><li><input type="checkbox" checked>直覺</li></ul> |    |
+|             |                                                                                                                                                                               |    |
+|             |                                                                                                                                                                               |    |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
