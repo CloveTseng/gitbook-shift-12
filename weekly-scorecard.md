@@ -37,14 +37,14 @@ $$
 {% tab title="第 10 週計劃與評分卡" %}
 `3/8~3/14`
 
-| 預計關鍵行動 / 策略    | 實際執行                                                                                                                                                                          | 說明                                                                                                                                                            |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 核心價值與未來性       | <p></p><ul class="contains-task-list"><li><input type="checkbox" checked>成長價值</li><li><input type="checkbox" checked>反饋機制</li><li><input type="checkbox" checked>直覺</li></ul> | <p><a data-mention href="tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w10">#w10</a><br><sub>我很容易被環境(人)影響，這是優點也是缺點，所以很羨慕可以完全無視空氣的人 (學習中)</sub></p> |
-| 確保邵同學履歷投遞      | ❌                                                                                                                                                                             | 請放過出國的人                                                                                                                                                       |
-| Gui 教練的每日任務    | ❌✅✅                                                                                                                                                                           |                                                                                                                                                               |
-| 每日 10000 + 八段錦 | ✅                                                                                                                                                                             |                                                                                                                                                               |
-| Vue3 複習互動頁     | ✔️ 做一半                                                                                                                                                                        | <sub>因為大文哥邀請了參加今年鐵人賽，所以我把他調整了一下變成體人賽用</sub>                                                                                                                   |
-| ~~病態人格~~極限返航   | 開看\~ ❌                                                                                                                                                                        |                                                                                                                                                               |
+| 預計關鍵行動 / 策略                         | 實際執行                                                                                                                                                                          | 說明                                                                                                                                                            |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 核心價值與未來性                            | <p></p><ul class="contains-task-list"><li><input type="checkbox" checked>成長價值</li><li><input type="checkbox" checked>反饋機制</li><li><input type="checkbox" checked>直覺</li></ul> | <p><a data-mention href="tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w10">#w10</a><br><sub>我很容易被環境(人)影響，這是優點也是缺點，所以很羨慕可以完全無視空氣的人 (學習中)</sub></p> |
+| 確保邵同學履歷投遞                           | ❌                                                                                                                                                                             | 請放過出國的人                                                                                                                                                       |
+| Gui 教練的每日任務                         | ❌✅✅                                                                                                                                                                           |                                                                                                                                                               |
+| 每日 10000 + 八段錦                      | ✅                                                                                                                                                                             |                                                                                                                                                               |
+| <p>Vue3 <del>複習互動頁</del><br>鐵人賽</p> | ✔️ 做一半                                                                                                                                                                        | <sub>因為大文哥邀請了參加今年鐵人賽，所以我把他調整了一下變成體人賽用</sub>                                                                                                                   |
+| ~~病態人格~~極限返航                        | 開看\~ ❌                                                                                                                                                                        |                                                                                                                                                               |
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">7/10 x100 = 70%</td></tr></tbody></table>
 
@@ -68,11 +68,7 @@ $$
 {% tab title="第 11 週計劃與評分卡" %}
 `3/15~3/21`
 
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
+<table><thead><tr><th width="232">預計關鍵行動 / 策略</th><th>實際執行</th><th>說明</th></tr></thead><tbody><tr><td>核心價值與未來性</td><td><ul class="contains-task-list"><li><input type="checkbox"> 成長價值</li><li><input type="checkbox">反饋機制</li><li><input type="checkbox">直覺</li></ul></td><td></td></tr><tr><td>確保邵同學履歷投遞</td><td></td><td></td></tr><tr><td>每日 10000 + 八段錦</td><td></td><td></td></tr><tr><td>2026 鐵人賽大綱</td><td></td><td></td></tr><tr><td>極限返航</td><td></td><td></td></tr><tr><td>規劃 Q2 12 週計劃</td><td></td><td></td></tr></tbody></table>
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
 
