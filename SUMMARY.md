@@ -23,6 +23,7 @@
 ***
 
 * [Weekly Scorecard](weekly-scorecard.md)
+* [12 週計劃分享會](12-zhou-ji-hua-fen-xiang-hui.md)
 
 ## Monthly Review
 
