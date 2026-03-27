@@ -10,7 +10,7 @@ icon: dog
 
 本季平均達成率：85.05%
 
-<figure><img src=".gitbook/assets/圖片.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/圖片 (1).png" alt=""><figcaption></figcaption></figure>
 
 > 結論：穩定成長，大慨吧
 
@@ -63,3 +63,9 @@ icon: dog
 * 看了 AI 時代的 Side Project 給了一些其他的思考 (但還沒看完
 * 寫了長文給輪輪，但其實反而激勵了自己 😝
 * 另外想要推『聰明表達，安靜也有影響力: 內向者必讀的職場發光指南』給你們這群 I 人
+
+### 最後
+
+下一季我還是會繼續自己的 12 週計劃，因為 12 週帶給我的幫助非常的大
+
+<figure><img src=".gitbook/assets/圖片.png" alt=""><figcaption></figcaption></figure>
