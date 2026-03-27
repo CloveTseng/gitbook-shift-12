@@ -10,7 +10,7 @@ icon: dog
 
 本季平均達成率：85.05%
 
-<figure><img src=".gitbook/assets/圖片 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/圖片 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 結論：穩定成長，大慨吧
 
@@ -68,4 +68,4 @@ icon: dog
 
 下一季我還是會繼續自己的 12 週計劃，因為 12 週帶給我的幫助非常的大
 
-<figure><img src=".gitbook/assets/圖片.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/圖片.png" alt=""><figcaption><p>目前開發中的 12 週筆記本 (對，因為 gitbook 好難用)</p></figcaption></figure>
