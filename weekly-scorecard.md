@@ -68,9 +68,9 @@ $$
 {% tab title="第 11 週計劃與評分卡" %}
 `3/15~3/21`
 
-<table><thead><tr><th width="232">預計關鍵行動 / 策略</th><th>實際執行</th><th>說明</th></tr></thead><tbody><tr><td>核心價值與未來性</td><td><ul class="contains-task-list"><li><input type="checkbox" checked> 成長價值</li><li><input type="checkbox" checked>反饋機制</li><li><input type="checkbox" checked>直覺</li></ul></td><td></td></tr><tr><td>確保邵同學履歷投遞</td><td></td><td></td></tr><tr><td>每日 10000 + 八段錦</td><td></td><td></td></tr><tr><td>2026 鐵人賽大綱</td><td></td><td></td></tr><tr><td>極限返航</td><td></td><td></td></tr><tr><td>規劃 Q2 12 週計劃</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="232">預計關鍵行動 / 策略</th><th>實際執行</th><th>說明</th></tr></thead><tbody><tr><td>核心價值與未來性</td><td><ul class="contains-task-list"><li><input type="checkbox" checked> 成長價值</li><li><input type="checkbox" checked>反饋機制</li><li><input type="checkbox" checked>直覺</li></ul></td><td><a data-mention href="tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w11">#w11</a></td></tr><tr><td>確保邵同學履歷投遞</td><td>❗ dont 逼他</td><td></td></tr><tr><td>每日 10000 + 八段錦</td><td>✅</td><td></td></tr><tr><td>2026 鐵人賽大綱</td><td>本來卡關，跟大文哥討論了一下，後面可以再調整 0.4✅</td><td></td></tr><tr><td>極限返航</td><td>好看，還沒看完 33.3%✅</td><td></td></tr><tr><td>規劃 Q2 12 週計劃</td><td>0.5 ✅</td><td></td></tr></tbody></table>
 
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">7/8 x100 = 87%</td></tr></tbody></table>
 
 #### 學習到了什麼？
 
@@ -80,7 +80,7 @@ $$
 \color{#FFD700} \bigstar \bigstar \bigstar \star \star
 $$
 
-* [ ] 規劃下週計劃
+* [x] 規劃下週計劃
 {% endtab %}
 
 {% tab title="第 12 週計劃與評分卡" %}
