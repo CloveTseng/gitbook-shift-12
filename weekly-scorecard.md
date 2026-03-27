@@ -68,7 +68,7 @@ $$
 {% tab title="第 11 週計劃與評分卡" %}
 `3/15~3/21`
 
-<table><thead><tr><th width="232">預計關鍵行動 / 策略</th><th>實際執行</th><th>說明</th></tr></thead><tbody><tr><td>核心價值與未來性</td><td><ul class="contains-task-list"><li><input type="checkbox" checked> 成長價值</li><li><input type="checkbox" checked>反饋機制</li><li><input type="checkbox" checked>直覺</li></ul></td><td><a data-mention href="tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w11">#w11</a></td></tr><tr><td>確保邵同學履歷投遞</td><td>❗ dont 逼他</td><td></td></tr><tr><td>每日 10000 + 八段錦</td><td>✅</td><td></td></tr><tr><td>2026 鐵人賽大綱</td><td>本來卡關，跟大文哥討論了一下，後面可以再調整 0.4✅</td><td></td></tr><tr><td>極限返航</td><td>好看，還沒看完 33.3%✅</td><td></td></tr><tr><td>規劃 Q2 12 週計劃</td><td>0.5 ✅</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="232">預計關鍵行動 / 策略</th><th>實際執行</th><th>說明</th></tr></thead><tbody><tr><td>核心價值與未來性</td><td><ul class="contains-task-list"><li><input type="checkbox" checked> 成長價值</li><li><input type="checkbox" checked>反饋機制</li><li><input type="checkbox" checked>直覺</li></ul></td><td><a data-mention href="tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w11">#w11</a></td></tr><tr><td>確保邵同學履歷投遞</td><td>❗ dont 逼他</td><td></td></tr><tr><td>每日 10000 + 八段錦</td><td>✅</td><td></td></tr><tr><td>2026 鐵人賽大綱</td><td>本來卡關，跟大文哥討論了一下，後面可以再調整 0.4✅</td><td></td></tr><tr><td>極限返航</td><td>好看，還沒看完 15.3%✅</td><td></td></tr><tr><td>規劃 Q2 12 週計劃</td><td>0.5 ✅</td><td></td></tr></tbody></table>
 
 <table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">7/8 x100 = 87%</td></tr></tbody></table>
 
@@ -86,23 +86,28 @@ $$
 {% tab title="第 12 週計劃與評分卡" %}
 `3/22~3/28`
 
-| 預計關鍵行動 / 策略 | 實際執行 | 說明 |
-| ----------- | ---- | -- |
-|             |      |    |
-|             |      |    |
-|             |      |    |
+| 預計關鍵行動 / 策略    | 實際執行                                                                                                                                                                          | 說明                                                                                                                               |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 核心價值與未來性       | <p></p><ul class="contains-task-list"><li><input type="checkbox" checked>成長價值</li><li><input type="checkbox" checked>反饋機制</li><li><input type="checkbox" checked>直覺</li></ul> | <p>校長說的沒錯，難的都不是技術不夠，是人類(溝通)呀<br><a data-mention href="tacitcs/xin-niao-qian-duan-zhi-chang-sheng-cun-ji-hua.md#w12">#w12</a></p> |
+| 確保邵同學履歷投遞      | ❗ 莫給寶子壓力                                                                                                                                                                      |                                                                                                                                  |
+| 每日 10000 + 八段錦 | ✅                                                                                                                                                                             |                                                                                                                                  |
+| 2026 鐵人賽大綱     | ✖️                                                                                                                                                                            | 本週拖延症犯病了                                                                                                                         |
+| 極限返航           | ✅ 33.33%                                                                                                                                                                      | 好像還沒到厲害的地方？                                                                                                                      |
+| 規劃 Q2 12 週計劃   | 0.7 ✅                                                                                                                                                                         | 4/1 要上線                                                                                                                          |
 
-<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle"></td></tr></tbody></table>
+<table><thead><tr><th valign="middle">每週評分卡</th></tr></thead><tbody><tr><td valign="middle"><sub>完成的策略 / 策略總數 x 100 = 執行力百分比</sub></td></tr><tr><td valign="middle">6/8 x 100 = 75%</td></tr></tbody></table>
 
 #### 學習到了什麼？
+
+* 把矽谷叔叔吸完了
+* 本週正式開始超級個體
+* 在考慮要不要 buy 硬筆書法 (這是我一直很想玩的)，但 4 月可能有軟工體驗營，我怕我吞不下
 
 #### 評估能量狀態 ( 1\~5 分)
 
 $$
-\color{#FFD700} \bigstar \bigstar \bigstar \star \star
+\color{#FFD700} \bigstar \bigstar \bigstar \bigstar \star
 $$
-
-* [ ] 規劃下週計劃
 {% endtab %}
 {% endtabs %}
 
