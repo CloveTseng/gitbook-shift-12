@@ -23,6 +23,7 @@
 ***
 
 * [Weekly Scorecard](weekly-scorecard.md)
+* [2026 Q1 12週計劃線下分享會](2026-q1-12-zhou-ji-hua-xian-xia-fen-xiang-hui.md)
 * [12 週計劃分享會](12-zhou-ji-hua-fen-xiang-hui.md)
 
 ## Monthly Review
